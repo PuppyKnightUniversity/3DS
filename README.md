@@ -6,7 +6,7 @@ This repository contains the code for **3DS: Decomposed Difficulty Data Selectio
 
 Below is the diagram of the framework:
 
-![framework_overview](.\framework_overview.jpg)
+![framework_overview](./framework_overview.jpg)
 
 The framework is composed of two stages:
 
