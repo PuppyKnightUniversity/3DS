@@ -2,6 +2,9 @@
 
 This repository contains the code for **3DS: Decomposed Difficulty Data Selection’s Case Study on LLM Medical Domain Adaptation**. 
 
+The dataset used in this study is publicly available at [https://drive.google.com/drive/folders/1SfrwQkDrQJ8i_EIqfc2Di0Xa5Y5pzY9H]
+
+
 ## Framework Overview
 
 Below is the diagram of the framework:
@@ -111,7 +114,20 @@ To use this repository, ensure the following dependencies are installed:
 The final filtered dataset is saved at the path specified by `json_save_path`. This dataset can then be used for training or fine-tuning models.
 
 ---
+## Dataset
+The dataset used in our study is opensourced at https://drive.google.com/drive/folders/1SfrwQkDrQJ8i_EIqfc2Di0Xa5Y5pzY9H
 
+The dataset statistics are shown below:
+| **Dataset**              | **Size (K)** |
+|--------------------------|--------------|
+| medtalk_singleround       | 177          |
+| medknowledge_KG           | 796          |
+| medknowledge_webqa        | 360          |
+| medtask_promptcblue       | 82           |
+| qa_website                | 490          |
+| **Total**                 | **1905**     |
+
+---
 ## Citation
 
 If you use this repository or find it helpful, please consider citing our work.
