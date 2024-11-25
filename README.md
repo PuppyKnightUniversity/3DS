@@ -2,7 +2,7 @@
 
 This repository contains the code for **3DS: Decomposed Difficulty Data Selection’s Case Study on LLM Medical Domain Adaptation**. 
 
-The dataset used in this study is publicly available at [https://drive.google.com/drive/folders/1SfrwQkDrQJ8i_EIqfc2Di0Xa5Y5pzY9H]
+The dataset used in this study is publicly available at https://drive.google.com/drive/folders/1SfrwQkDrQJ8i_EIqfc2Di0Xa5Y5pzY9H
 
 
 ## Framework Overview
